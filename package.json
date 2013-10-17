@@ -1,0 +1,12 @@
+{
+  "author": "yyy",
+  "name": "xxx",
+  "version": "0.0.1",
+  "dependencies": {
+    "noflo": "*",
+    "noflo-core": "*",
+    "noflo-filesystem": "*",
+    "noflo-core-network": "*",
+    "noflo-strings": "*"
+  }
+}
